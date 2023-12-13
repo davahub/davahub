@@ -4,6 +4,10 @@
 
 <img align="right" height=200 width=200 alt="AI programmer" src="https://github.com/davahub/davahub/blob/main/images/prog-guy1.png" />
 
+
+Welcome to my GitHub! I am a seasoned full-stack programmer, interested in games, tooling and automation. I blend art and science to weave the web of the future. Here, you'll discover a world where code meets creativity, where every line tells a story. Join me in exploring the endless possibilities of technology and let's create something extraordinary together!
+
+
 <!--
 **davahub/davahub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
