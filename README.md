@@ -2,10 +2,14 @@
 ### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-<img align="right" height=200 width=200 alt="AI programmer" src="https://github.com/davahub/davahub/blob/main/images/prog-guy1.png" />
+<img align="right" height=200 width=200 alt="AI programmer"
+src="https://github.com/davahub/davahub/blob/main/images/prog-guy1.png" />
 
 
-Welcome to my GitHub! I'm Dava, a seasoned full-stack programmer with a passion for games, AI, software, and automation. I blend art and science to weave the web of the future. Here, you'll discover a world where code meets creativity, where every line tells a story. Join me in exploring the endless possibilities of technology.
+Welcome to my GitHub! I'm Dava, a seasoned full-stack programmer with a passion for games, AI,
+software, and automation. I blend art and science to weave the web of the future. Here, you'll
+discover a world where code meets creativity, where every line tells a story. Join me in exploring
+the endless possibilities of technology.
 
 
 ### 🔧 Languages / Tools
@@ -27,10 +31,9 @@ Welcome to my GitHub! I'm Dava, a seasoned full-stack programmer with a passion 
 ![ArchLinux](https://img.shields.io/badge/Arch_Linux-05122A?style=flat&logo=arch-linux&logoColor=white)
 
 
-<!--
-### ⚙️  GitHub Analytics
-![CMake](https://img.shields.io/badge/-CMake-05122A?style=flat&logo=cmake)
-**davahub/davahub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ### ⚙️  GitHub Analytics
+![CMake](https://img.shields.io/badge/-CMake-05122A?style=flat&logo=cmake) **davahub/davahub** is a
+✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -41,5 +44,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
