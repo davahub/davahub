@@ -24,18 +24,12 @@ Welcome to my GitHub! I'm Dava, a seasoned full-stack programmer with a passion 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=B54009)
 ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust&logoColor=B54009)
 ![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go&logoColor=B54009)
-![ArchLinux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
+![ArchLinux](https://img.shields.io/badge/Arch_Linux-05122A?style=flat&logo=arch-linux&logoColor=white)
 
 
-### ⚙️  GitHub Analytics
 
-<p align="center">
-<a href="https://github.com/davahub">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=davahub&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=davahub&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 <!--
+### ⚙️  GitHub Analytics
 ![CMake](https://img.shields.io/badge/-CMake-05122A?style=flat&logo=cmake)
 **davahub/davahub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
