@@ -14,7 +14,7 @@ Welcome to my GitHub! I'm Dava, a seasoned full-stack programmer with a passion 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript&logoColor=2D79C7)
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk&logoColor=189F20)
-![CSharp](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=csharp&logoColor=189F20)
+![CSharp](https://img.shields.io/badge/-C%23-05122A?style=flat&logo=csharp&logoColor=189F20)
 ![Cpp](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus&logoColor=00589D)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=1993EF)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
@@ -25,6 +25,7 @@ Welcome to my GitHub! I'm Dava, a seasoned full-stack programmer with a passion 
 ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust&logoColor=B54009)
 ![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go&logoColor=B54009)
 ![ArchLinux](https://img.shields.io/badge/Arch_Linux-05122A?style=flat&logo=arch-linux&logoColor=white)
+
 
 
 
