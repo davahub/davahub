@@ -2,14 +2,12 @@
 ### Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-<img align="right" height=200 width=200 alt="AI programmer"
-src="https://github.com/davahub/davahub/blob/main/images/prog-guy1.png" />
 
-
-Welcome to my GitHub! I'm Dava, a seasoned full-stack programmer with a passion for games, AI,
-software, and automation. I blend art and science to weave the web of the future. Here, you'll
-discover a world where code meets creativity, where every line tells a story. Join me in exploring
-the endless possibilities of technology.
+I'm Dava, an experienced software developer with a passion for crafting elegant
+and efficient solutions. With over 8 years of experience in the ever-evolving
+world of software development, I've had the privilege of working on a diverse
+range of projects and honing my skills in a variety of programming languages
+and technologies.
 
 
 ### 🔧 Languages / Tools
@@ -23,12 +21,10 @@ the endless possibilities of technology.
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=1993EF)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![Lua](https://img.shields.io/badge/-Lua-05122A?style=flat&logo=lua&logoColor=0062cc)
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![NeoVim](https://img.shields.io/badge/-NeoVim-05122A?style=flat&logo=neovim&logoColor=4b9e4b)
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python&logoColor=B54009)
 ![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust&logoColor=B54009)
 ![Golang](https://img.shields.io/badge/-Golang-05122A?style=flat&logo=go&logoColor=B54009)
-![ArchLinux](https://img.shields.io/badge/Arch_Linux-05122A?style=flat&logo=arch-linux&logoColor=white)
 
 
 <!-- ### ⚙️  GitHub Analytics
